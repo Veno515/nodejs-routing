@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-routing",
+  "version": "1.0.0",
+  "description": "A basic nodejs routing app.\r To install node packages required, simply type 'npm install' in the folders directory in the terminal. The application has three pages: the home, about and profile pages.\r After running 'node app'on terminal, you can view the home page by simply typing 'localhost:3000/' in the address bar of your browser, and 'localhost:3000/about' to view the about page.\r For the profile page, type in 'localhost:3000/profile/(your name), as in 'localhost:3000/profile/John Doe' to view John Doe's profile. \r You can manipulate the age and job on line 18 in the app.js file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veno515/nodejs-routing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veno515/nodejs-routing/issues"
+  },
+  "homepage": "https://github.com/Veno515/nodejs-routing#readme"
+}
