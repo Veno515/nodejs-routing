@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Veno515/nodejs-routing/issues"
   },
-  "homepage": "https://github.com/Veno515/nodejs-routing#readme"
+  "homepage": "https://github.com/Veno515/nodejs-routing#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
